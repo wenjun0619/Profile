@@ -1,0 +1,186 @@
+.top-container{
+
+
+  position: relative;
+padding-top: 100px;
+  background-color:#eef9bf;
+
+
+
+
+}
+
+p{
+  line-height: 2;
+}
+
+.contact-me p{
+  width:30%;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.profile p {
+  width:25%;
+  margin-top: 0;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 0;
+}
+
+hr{
+  width: 4%;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 10px;
+  color: grey;
+  margin-bottom: 100px;
+  margin-top: 100px;
+}
+
+.asian{
+  width: 15%
+}
+.image1{
+  width: 700px;
+  height: 500px;
+}
+
+body{
+  margin:0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h1{
+  margin-top: 50px auto 0 auto;
+   /* because this element is a block element and has a width we have to manually center it */
+  margin:0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 500%;
+  color:#75b79e;
+
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size:2.5rem;
+  padding:10px;
+  color:#75b79e;
+  font-weight: normal;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color:#75b79e;
+}
+.middle-container{
+margin:100px 0;
+
+}
+
+.bottom-container{
+
+background-color: #eef9bf;
+padding-top: 50px;
+padding-bottom: 20px;
+
+
+}
+
+
+
+
+.contact-me{
+  margin:10px;
+
+}
+
+.bottom-container p{
+font-family: Montserrat;
+color:#6a8caf;
+font-size: 0.75rem;
+padding:20px 0;
+
+}
+
+.bottom-container a{
+text-decoration: none;
+color:#75b79e;
+margin-left: 10px;
+margin-right: 10px;
+font-family: Montserrat;
+
+
+}
+
+.skill-row{
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  margin-bottom: 200px;
+  text-align: left;
+
+}
+
+.skill1{
+
+  width: 25%;
+  float: left;
+margin-right: 30px;
+}
+
+.skill2{
+
+  width: 25%;
+  float:right;
+  margin-left:30px;
+}
+
+.top-cloud{
+  height: 160px;
+  width: 180px;
+  position: absolute;
+  top: 0;
+  right: 600px;
+
+
+}
+a:hover{
+  color:#6a8caf;
+}
+
+.icons{
+  font-family: Montserrat;
+}
+
+.bottom-cloud{
+  height: 160px;
+  width: 180px;
+  position: absolute;
+  left:570px;
+  bottom:400px;
+}
+
+.btn{
+  background-color:#44c767;
+	border-radius:28px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:black;
+	font-family:'Montserrat', sans-serif;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #2f6627;
+}
+
+.btn:hover {
+ 	background-color:#eef9bf;
+}
+
+.btn:active{
+  position:relative;
+	top:1px;
+}
