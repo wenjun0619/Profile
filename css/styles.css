@@ -14,6 +14,8 @@ p{
   line-height: 2;
 }
 
+
+
 .contact-me p{
   width:30%;
   margin-top: 40px;
@@ -79,9 +81,9 @@ margin:100px 0;
 }
 
 .bottom-container{
-
+margin-top: 50px;
 background-color: #eef9bf;
-padding-top: 50px;
+padding-top: 20px;
 padding-bottom: 20px;
 
 
